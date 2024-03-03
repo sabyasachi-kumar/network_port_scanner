@@ -8,6 +8,8 @@ of each scanned port. In case of an invalid argument or input error, the script 
 exceptions and provides appropriate error messages. This script provides a basic foundation for 
 conducting TCP port scans and can be further extended or integrated into larger network security or 
 monitoring tools.
-CLI COMMAND FOR RUNNING THE CODE:
+
+###CLI COMMAND FOR RUNNING THE CODE:
 ## python scanner.py -o <host_ip_address> -p <port_list>
-*If not in root directory, use cd command to change the directory where the script is stored
+
+##### *If not in root directory, use cd command to change the directory where the script is stored
